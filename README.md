@@ -1,9 +1,9 @@
 ## Seja bem vindo ao meu perfil do Github!!
 
-<div style="display:flex; flex-direction:row; justify-content:center; aling-items:center;">
+<div style="display:flex; flex-direction:row; justify-content:center; aling-items:center; flex-wrap:wrap;">
   
-  <img  height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunodevinfocomputer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img align="right" height="110em" width="450em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunodevinfocomputer&layout=compact&langs_count=16&theme=radical"/>
+  <img  height="145em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunodevinfocomputer&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img align="right" height="110em" width="430em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunodevinfocomputer&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <br>
 
