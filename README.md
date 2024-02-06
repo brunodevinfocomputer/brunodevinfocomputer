@@ -1,4 +1,18 @@
 ![](https://komarev.com/ghpvc/?username=brunodevinfocomputer&color=006bed)
+## Bruno Lucas
+**Frontend Developer**
+
+<p align="left">
+
+[![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" title="Gmail">
+  <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-7D3081?style=flat-square&labelColor=7D3081&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-devbrunolucas-7D3081?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  
+</p>
+
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -7,38 +21,29 @@
 </p>
 
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
 
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" title="Gmail">
-  <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
-</p>
+
 
 <p align="left">
 </p>
 
 ## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+<p align="left">  
+  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+  - 🎓 Estudando {seu curso} no {faculdade}.
+  - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
+  - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+</p>
 
 ## Minhas Skills
+  **Desenvolvimento Web**
+<p align="left">
 
-**Desenvolvimento Web**
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-
+</p>
 
 **DevOps**
 
@@ -54,12 +59,8 @@
 
 <br/>
 
-<a href="https://github.com/brunodevinfocomputer" title="Perfil do Bruno" align="right">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevinfocomputer&theme=dracula&show_icons=true" />
+<a href="https://github.com/brunodevinfocomputer" title="Perfil do Bruno">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevinfocomputer&theme=dracula&show_icons=true"/>
 </a>
 
-## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](LINK-DO-SEU-GITHUB)
