@@ -4,7 +4,7 @@
 
 <p align="left">
 
-[![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](https://github.com/brunodevinfocomputer)
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" title="Gmail">
   <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-7D3081?style=flat-square&labelColor=7D3081&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/bruno-lucas-b64910254/" title="LinkedIn">
@@ -29,27 +29,27 @@ Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a cri
   - 🌱 Aprendendo mais sobre PHP e Laravel.
 </p>
 
-## Minhas Skills
-  **Desenvolvimento Web**
+## Skills
 <p align="left">
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&logoColor=48E525)
+  ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=48E525)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=48E525)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=48E525)
 
 </p>
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=7D3081)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=7D3081)
 
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=48E525)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=48E525)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=48E525)
 
 <br/>
 
