@@ -6,9 +6,9 @@
 
 [![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](https://github.com/brunodevinfocomputer)
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" title="Gmail">
-  <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-7D3081?style=flat-square&labelColor=7D3081&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-986dff?style=flat-square&labelColor=986dff&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/bruno-lucas-b64910254/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-devbrunolucas-7D3081?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-lucas-b64910254/" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-devbrunolucas-986dff?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-lucas-b64910254/" alt="LinkedIn"/></a>
   
 </p>
 
@@ -41,8 +41,8 @@ Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a cri
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=7D3081)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=7D3081)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=986dff1)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=986dff)
 
 
 **Ferramentas de desenvolvimento**
