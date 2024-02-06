@@ -7,8 +7,8 @@
 [![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](LINK-DO-SEU-GITHUB)
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" title="Gmail">
   <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-7D3081?style=flat-square&labelColor=7D3081&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-devbrunolucas-7D3081?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/bruno-lucas-b64910254/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-devbrunolucas-7D3081?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-lucas-b64910254/" alt="LinkedIn"/></a>
   
 </p>
 
@@ -18,7 +18,7 @@
 <p align="left"> 
 Meu nome é Bruno Lucas minha primeira experiência com código foi no ano da pandemia, quando um print("Hello World") desencadeou uma jornada de descoberta, aprendizado constante e uma paixão crescente pela arte de criar soluções e programar.
 
-Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a criatividade e interatividade me mostraram um mundo espetacular. Desde então, tracei o objetivo de me tornar um Desenvolvedor Web e aprimorar meus conhecimentos.
+Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a criatividade e interatividade me mostraram novos caminhos. Desde então, tracei o objetivo de me tornar um Desenvolvedor Web e aprimorar meus conhecimentos.
 
 </p>
 
