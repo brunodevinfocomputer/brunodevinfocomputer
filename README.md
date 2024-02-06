@@ -16,7 +16,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-Meu nome é Bruno Lucas, sou técnico formado em Desenvolvimento de Sistemas em 2023 pelo Instituto Federal de Alagoas (IFAL). Minha primeira experiência com código foi no ano da pandemia, quando um print("Hello World") desencadeou uma jornada de descoberta, aprendizado constante e uma paixão crescente pela arte de criar soluções e programar.
+Meu nome é Bruno Lucas minha primeira experiência com código foi no ano da pandemia, quando um print("Hello World") desencadeou uma jornada de descoberta, aprendizado constante e uma paixão crescente pela arte de criar soluções e programar.
 
 Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a criatividade e interatividade me mostraram um mundo espetacular. Desde então, tracei o objetivo de me tornar um Desenvolvedor Web e aprimorar meus conhecimentos.
 
@@ -53,8 +53,5 @@ Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a cri
 
 <br/>
 
-<a href="https://github.com/brunodevinfocomputer" title="Perfil do Bruno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevinfocomputer&theme=dracula&show_icons=true"/>
-</a>
 
 
