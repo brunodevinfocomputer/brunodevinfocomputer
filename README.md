@@ -41,7 +41,7 @@ Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a cri
 
 **DevOps**
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=986dff1)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=986dff)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=986dff)
 
 
