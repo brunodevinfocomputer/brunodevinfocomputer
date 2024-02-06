@@ -6,13 +6,6 @@
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
-
-<p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
-</p>
 
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
@@ -20,7 +13,7 @@
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="brunodevinfocomputer@gmail.com"/></a>
+  <img src="https://img.shields.io/badge/-brunodevinfocomputer@gmail.com-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/?view=cm&fs=1&to=devbrunolucas@gmail.com.br" alt="Gmail"/></a>
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
   <a href="#" title="Instagram">
@@ -61,7 +54,7 @@
 
 <br/>
 
-<a href="https://github.com/brunodevinfocomputer" title="Perfil do Bruno">
+<a href="https://github.com/brunodevinfocomputer" title="Perfil do Bruno" align="right">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunodevinfocomputer&theme=dracula&show_icons=true" />
 </a>
 
@@ -69,4 +62,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/brunodevinfocomputer?label=follow&style=social)](LINK-DO-SEU-GITHUB)
