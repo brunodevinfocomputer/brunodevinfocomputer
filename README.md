@@ -16,23 +16,17 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Meu nome é Bruno Lucas, sou técnico formado em Desenvolvimento de Sistemas em 2023 pelo Instituto Federal de Alagoas (IFAL). Minha primeira experiência com código foi no ano da pandemia, quando um print("Hello World") desencadeou uma jornada de descoberta, aprendizado constante e uma paixão crescente pela arte de criar soluções e programar.
+
+Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a criatividade e interatividade me mostraram um mundo espetacular. Desde então, tracei o objetivo de me tornar um Desenvolvedor Web e aprimorar meus conhecimentos.
+
 </p>
 
 
-
-
-
-<p align="left">
-</p>
-
-## Sobre mim
+## Mais sobre mim
 <p align="left">  
-  - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-  - 🎓 Estudando {seu curso} no {faculdade}.
-  - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-  - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+  - 💼 Trabalhando como Desevolvedor Web FullStack na Devtex Sistemas. <br>
+  - 🌱 Aprendendo mais sobre PHP e Laravel.
 </p>
 
 ## Minhas Skills
