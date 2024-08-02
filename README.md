@@ -25,8 +25,8 @@ Minha paixão aumentou quando conheci o mundo do desenvolvimento web, onde a cri
 
 ## Mais sobre mim
 <p align="left">  
-  - 💼 Trabalhando como Desevolvedor Web FullStack na Devtex Sistemas. <br>
-  - 🌱 Aprendendo mais sobre PHP e Laravel.
+  - 💼 <br>
+  - 🌱 .
 </p>
 
 ## Skills
