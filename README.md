@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Tchow, me chamo Bruno, apenas um desenvolvedor FrontEnd Brasileiro</h3>
+<h3 align="left">Desenvolvedor FrontEnd Brasileiro</h3>
 
 ###
 
