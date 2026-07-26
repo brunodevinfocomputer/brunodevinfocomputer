@@ -1,1 +1,505 @@
 
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+    width="1180"
+    height="610"
+    viewBox="0 0 1180 610"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+
+<!-- ===================================================== -->
+<!--                   DEFINIÇÕES GLOBAIS                  -->
+<!-- ===================================================== -->
+
+<defs>
+
+<!-- Background Gradient -->
+
+<linearGradient id="bgGradient"
+x1="0"
+y1="0"
+x2="1180"
+y2="610">
+
+<stop offset="0%" stop-color="#030712">
+<animate
+attributeName="stop-color"
+values="#030712;#071326;#030712"
+dur="18s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%" stop-color="#0F172A">
+<animate
+attributeName="stop-color"
+values="#0F172A;#111827;#0F172A"
+dur="18s"
+repeatCount="indefinite"/>
+</stop>
+
+</linearGradient>
+
+<!-- Accent Gradient -->
+
+<linearGradient id="accentGradient"
+x1="0%"
+y1="0%"
+x2="100%"
+y2="100%">
+
+<stop offset="0%" stop-color="#7C3AED">
+<animate attributeName="stop-color"
+values="#7C3AED;#22D3EE;#10B981;#7C3AED"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="50%" stop-color="#22D3EE">
+<animate attributeName="stop-color"
+values="#22D3EE;#10B981;#7C3AED;#22D3EE"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="100%" stop-color="#10B981">
+<animate attributeName="stop-color"
+values="#10B981;#7C3AED;#22D3EE;#10B981"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+
+</linearGradient>
+
+<!-- ASCII Gradient -->
+
+<linearGradient id="asciiGradient">
+
+<stop offset="0%" stop-color="#7C3AED">
+<animate attributeName="offset"
+values="0;1;0"
+dur="8s"
+repeatCount="indefinite"/>
+</stop>
+
+<stop offset="50%" stop-color="#22D3EE"/>
+
+<stop offset="100%" stop-color="#10B981"/>
+
+</linearGradient>
+
+<!-- Blue Glow -->
+
+<radialGradient id="blueGlow">
+
+<stop offset="0%"
+stop-color="#22D3EE"
+stop-opacity=".40"/>
+
+<stop offset="100%"
+stop-color="#22D3EE"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<!-- Purple Glow -->
+
+<radialGradient id="purpleGlow">
+
+<stop offset="0%"
+stop-color="#7C3AED"
+stop-opacity=".35"/>
+
+<stop offset="100%"
+stop-color="#7C3AED"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<!-- Emerald Glow -->
+
+<radialGradient id="greenGlow">
+
+<stop offset="0%"
+stop-color="#10B981"
+stop-opacity=".30"/>
+
+<stop offset="100%"
+stop-color="#10B981"
+stop-opacity="0"/>
+
+</radialGradient>
+
+<!-- Glass Blur -->
+
+<filter id="glassBlur"
+x="-30%"
+y="-30%"
+width="160%"
+height="160%">
+
+<feGaussianBlur stdDeviation="18"/>
+
+</filter>
+
+<!-- Soft Shadow -->
+
+<filter id="shadow">
+
+<feDropShadow
+dx="0"
+dy="18"
+stdDeviation="25"
+flood-opacity=".30"/>
+
+</filter>
+
+<!-- Neon Glow -->
+
+<filter id="glow">
+
+<feGaussianBlur
+stdDeviation="5"
+result="coloredBlur"/>
+
+<feMerge>
+
+<feMergeNode in="coloredBlur"/>
+
+<feMergeNode in="SourceGraphic"/>
+
+</feMerge>
+
+</filter>
+
+<!-- Noise Pattern -->
+
+<filter id="noise">
+
+<feTurbulence
+type="fractalNoise"
+baseFrequency=".9"
+numOctaves="2"
+seed="12"/>
+
+<feColorMatrix
+type="saturate"
+values="0"/>
+
+<feComponentTransfer>
+
+<feFuncA
+type="table"
+tableValues="0 0 .04"/>
+
+</feComponentTransfer>
+
+</filter>
+
+</defs>
+
+<!-- ===================================================== -->
+<!--                   BACKGROUND                          -->
+<!-- ===================================================== -->
+
+<rect
+width="1180"
+height="610"
+rx="28"
+fill="url(#bgGradient)"/>
+
+<!-- Purple Glow -->
+
+<circle
+cx="220"
+cy="180"
+r="220"
+fill="url(#purpleGlow)">
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;20 -20;0 0"
+dur="12s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Blue Glow -->
+
+<circle
+cx="930"
+cy="120"
+r="240"
+fill="url(#blueGlow)">
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;-25 15;0 0"
+dur="15s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Emerald Glow -->
+
+<circle
+cx="940"
+cy="520"
+r="180"
+fill="url(#greenGlow)">
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;-15 -20;0 0"
+dur="18s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<!-- Noise Overlay -->
+
+<rect
+width="1180"
+height="610"
+filter="url(#noise)"
+opacity=".20"/>
+
+<!-- Border -->
+
+<rect
+x="1"
+y="1"
+width="1178"
+height="608"
+rx="28"
+stroke="rgba(255,255,255,.08)"
+stroke-width="2"/>
+
+<!-- ===================================================== -->
+<!-- CONTINUA NA PARTE 2                                   -->
+<!-- ===================================================== -->
+
+<!-- ===================================================== -->
+<!--              GLASS PANELS                             -->
+<!-- ===================================================== -->
+
+<!-- Left Panel -->
+
+<g filter="url(#shadow)">
+
+<rect
+x="35"
+y="35"
+width="390"
+height="540"
+rx="24"
+fill="#0F172A"
+fill-opacity=".45"
+stroke="rgba(255,255,255,.08)"/>
+
+</g>
+
+<!-- Right Panel -->
+
+<g filter="url(#shadow)">
+
+<rect
+x="455"
+y="35"
+width="690"
+height="540"
+rx="24"
+fill="#0F172A"
+fill-opacity=".45"
+stroke="rgba(255,255,255,.08)"/>
+
+</g>
+
+<!-- ===================================================== -->
+<!-- GLASS REFLECTION                                      -->
+<!-- ===================================================== -->
+
+<rect
+x="35"
+y="35"
+width="390"
+height="540"
+rx="24"
+fill="url(#glassReflection)"
+opacity=".10"/>
+
+<rect
+x="455"
+y="35"
+width="690"
+height="540"
+rx="24"
+fill="url(#glassReflection)"
+opacity=".10"/>
+
+<!-- ===================================================== -->
+<!-- BORDER SHIMMER                                        -->
+<!-- ===================================================== -->
+
+<rect
+x="36"
+y="36"
+width="388"
+height="538"
+rx="24"
+fill="none"
+stroke="url(#accentGradient)"
+stroke-width="1.2"
+stroke-dasharray="180 900">
+
+<animate
+attributeName="stroke-dashoffset"
+values="0;-1080"
+dur="8s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<rect
+x="456"
+y="36"
+width="688"
+height="538"
+rx="24"
+fill="none"
+stroke="url(#accentGradient)"
+stroke-width="1.2"
+stroke-dasharray="240 1600">
+
+<animate
+attributeName="stroke-dashoffset"
+values="0;-1840"
+dur="10s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- ===================================================== -->
+<!-- FLOATING PARTICLES                                    -->
+<!-- ===================================================== -->
+
+<g fill="#22D3EE" opacity=".5">
+
+<circle cx="120" cy="90" r="2">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;0 -18;0 0"
+dur="5s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="260" cy="520" r="2">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;10 -22;0 0"
+dur="7s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="720" cy="130" r="1.8">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;-8 -16;0 0"
+dur="6s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="980" cy="240" r="2">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;12 -18;0 0"
+dur="8s"
+repeatCount="indefinite"/>
+</circle>
+
+<circle cx="1040" cy="480" r="1.5">
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;-10 -20;0 0"
+dur="9s"
+repeatCount="indefinite"/>
+</circle>
+
+</g>
+
+<!-- ===================================================== -->
+<!-- SCANLINE                                              -->
+<!-- ===================================================== -->
+
+<rect
+x="0"
+y="-80"
+width="1180"
+height="80"
+fill="url(#accentGradient)"
+opacity=".05">
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="0 0;0 700"
+dur="10s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- ===================================================== -->
+<!-- TERMINAL HEADER                                       -->
+<!-- ===================================================== -->
+
+<circle cx="485" cy="60" r="6" fill="#EF4444"/>
+<circle cx="505" cy="60" r="6" fill="#F59E0B"/>
+<circle cx="525" cy="60" r="6" fill="#10B981"/>
+
+<text
+x="555"
+y="65"
+fill="#94A3B8"
+font-size="15"
+font-family="monospace">
+
+terminal
+
+</text>
+
+<!-- ===================================================== -->
+<!-- PLACEHOLDER ASCII                                     -->
+<!-- ===================================================== -->
+
+<rect
+x="80"
+y="110"
+width="300"
+height="360"
+rx="14"
+fill="#08111F"
+opacity=".45"/>
+
+<!-- ===================================================== -->
+<!-- PLACEHOLDER TERMINAL                                  -->
+<!-- ===================================================== -->
+
+<rect
+x="490"
+y="90"
+width="620"
+height="430"
+rx="16"
+fill="#08111F"
+opacity=".35"/>
+
+<!-- ===================================================== -->
+<!-- CONTINUA NA PARTE 3                                   -->
+<!-- ===================================================== -->
