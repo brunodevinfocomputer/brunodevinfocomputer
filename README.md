@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner animado (capsule-render) -->
-<img src="https://capsule-render.com/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20%5BSEU%20NOME%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" alt="banner"/>
+<!-- <img src="https://capsule-render.com/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20%5BSEU%20NOME%5D&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20" width="100%" alt="banner"/> -->
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
@@ -14,11 +14,11 @@
 
 ## 👋 Sobre mim
 
-- 🔭 Atualmente trabalhando em **[nome do projeto]**
-- 🌱 Aprendendo **[tecnologia que está estudando]**
-- 💬 Pergunte-me sobre **JavaScript, React, Node.js**
-- 📫 Como me encontrar: **seu-email@exemplo.com**
-- ⚡ Fun fact: **[algo divertido sobre você]**
+- 🔭 Atualmente trabalhando em **[Forno Pizzaria]**
+- 🌱 Aprendendo **[HTML E CSS]**
+- 💬 Pergunte-me sobre **Hthm5l, Css3, JavaScript, React, Node.js**
+- 📫 Como me encontrar: **brunodevinfocomputer@gmail.com**
+- ⚡ Fun fact: **[Calmo]**
 
 <br/>
 
