@@ -1,9 +1,6 @@
-<h1 align="center">Olá, eu sou o Bruno 👋</h1>
-<h3 align="center">Desenvolvedor Frontend em formação 🚀</h3>
+<h1 align="center">Olá, Bruno aqui👋</h1>
+<h3 align="center">Desenvolvedor Frontend🚀</h3>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/609d1dcae00dad934dd15b5f820dee3e9bdb41ee0157395c31f8b26f0b40e233/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6272756e6f646576696e666f636f6d70757465722667686370633d747275652673686f77436f756e743d747275652673686f7749636f6e733d747275652673686f77546f6461793d747275652673686f77546f74616c3d747275652673686f77556e69717565436f756e743d747275652673686f775765656b3d74727565266261636b67726f756e64436f6c6f723d3030303030302666757475726973746963436f756e743d3037353736342e37363336373236332535434c" alt="Profile views"/>
-</p>
 
 ---
 
@@ -15,7 +12,7 @@
 - 🌱 Aprendendo aos poucos sobre **React** e boas práticas de desenvolvimento web
 - 🤝 Aberto a colaborações, dicas e trocas com outros devs (principalmente quem também tá começando!)
 - 📍 Maceió - AL, Brasil
-- 📫 Como me encontrar: **[seu e-mail aqui]**
+- 📫 Como me encontrar: **[brunolucasdossantos20@gmail.com]**
 
 ---
 
@@ -29,8 +26,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
-
-> 💡 Dica: conforme você for evoluindo (React, TypeScript, Tailwind, etc.), é só adicionar novos badges aqui em cima.
 
 ---
 
@@ -66,7 +61,7 @@
   <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:seu-email@exemplo.com">
+  <a href="mailto:brunolucasdossantos20@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
