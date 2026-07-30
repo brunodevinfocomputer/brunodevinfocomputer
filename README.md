@@ -3,8 +3,6 @@
 
 ---
 
-### 👋 Sobre mim
-
 - 🎓 Estou começando minha jornada como **Desenvolvedor Frontend**
 - 💻 Atualmente estudando **HTML, CSS e JavaScript**, com foco em construir uma base sólida
 - 🔭 Praticando com pequenos projetos para aplicar o que aprendo
