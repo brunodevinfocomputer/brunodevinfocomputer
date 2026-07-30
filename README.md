@@ -1,4 +1,3 @@
-<h1 align="center">Olá, Bruno aqui👋</h1>
 <h3 align="center">Desenvolvedor Frontend🚀</h3>
 
 
@@ -12,7 +11,6 @@
 - 🌱 Aprendendo aos poucos sobre **React** e boas práticas de desenvolvimento web
 - 🤝 Aberto a colaborações, dicas e trocas com outros devs (principalmente quem também tá começando!)
 - 📍 Maceió - AL, Brasil
-- 📫 Como me encontrar: **[brunolucasdossantos20@gmail.com]**
 
 ---
 
