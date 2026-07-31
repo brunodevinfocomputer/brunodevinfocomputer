@@ -25,18 +25,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunodevinfocomputer&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brunodevinfocomputer&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-</p>
-
----
-
 ### 🎯 Objetivos atuais
 
 - [ ] Finalizar meus estudos de JavaScript (fundamentos)
