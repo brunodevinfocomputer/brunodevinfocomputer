@@ -28,9 +28,6 @@
 ### 🎯 Objetivos atuais
 
 - [ ] Finalizar meus estudos de JavaScript (fundamentos)
-- [ ] Construir 3 a 5 projetos práticos para o portfólio
-- [ ] Aprender React do zero
-- [ ] Contribuir com meu primeiro projeto open source
 - [ ] Conseguir minha primeira oportunidade como Frontend Jr
 
 ---
