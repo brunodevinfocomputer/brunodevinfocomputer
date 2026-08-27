@@ -29,6 +29,7 @@
 
 - [ ] Finalizar meus estudos de JavaScript (fundamentos)
 - [ ] Conseguir minha primeira oportunidade como Frontend Jr
+- [ ] 
 
 ---
 
