@@ -8,7 +8,7 @@
 - 🔭 Praticando com pequenos projetos para aplicar o que aprendo
 - 🌱 Aprendendo aos poucos sobre **React** e boas práticas de desenvolvimento web
 - 🤝 Aberto a colaborações, dicas e trocas com outros devs (principalmente quem também tá começando!)
-- 📍 Maceió - AL, Brasil
+
 
 ---
 
